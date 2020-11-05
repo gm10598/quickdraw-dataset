@@ -133,6 +133,7 @@ golf club
 grapes
 grass
 guitar
+hair
 hamburger
 hammer
 hand
@@ -294,6 +295,7 @@ string bean
 submarine
 suitcase
 sun
+soda
 swan
 sweater
 swing set
